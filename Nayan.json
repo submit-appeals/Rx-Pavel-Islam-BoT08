@@ -9,18 +9,18 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "কাইল্লা ডায়মন্ড বট 🌚",
+  "PREFIX": "<",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100000959749712"
+    "100009038679765"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100009038679765",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100009038679765"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
